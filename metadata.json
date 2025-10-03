@@ -1,0 +1,5 @@
+{
+  "name": "The Chithram Company Pitch Deck",
+  "description": "An interactive web pitch deck for 'The Chithram Company', a modern photobooth product line. It showcases products, features, and includes an AI-powered backdrop generator using the Gemini API.",
+  "requestFramePermissions": []
+}
